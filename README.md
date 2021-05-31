@@ -14,6 +14,8 @@ UPDATE 31/5/2021
 
 °Add value: NGROK_AUTH_TOKEN and get your Token at theb http://dashboard.ngrok.com of Settings - Secrets. Get your RDP login IP at: https://dashboard.ngrok.com/endpoints/status
 
-You can watch detailed video tutorials at:https://youtu.be/j_AUr6TzPPw
+You can watch detailed video tutorials at:https://youtu.be/hZaN0fvqO8M
 
 Subscribe to my channel to update interesting technology tips: https://youtube.com/channel/UCOOJyl7kJMNMvk_RLVAUtkQ
+
+PLEASE JOIN ME BUILD A USEFUL TECHNOLOGY COMMUNITY : https://www.facebook.com/groups/congdongvpsvietnam
